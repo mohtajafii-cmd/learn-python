@@ -1,12 +1,5 @@
-coordinates = (3,4)
-distance = ((coordinates[0]-0)**2 + (coordinates[1]-0)**2)**.5
-print(distance)
-
-
-
-
-
-
-
-
-
+SetA = {1, 2, 3, 4}
+SetB = {3, 4, 5, 6}
+u=SetA.union(SetB)
+i=SetA.intersection(SetB)
+print(f'{u}\n{i}')
