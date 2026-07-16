@@ -1,4 +1,12 @@
-fruit_prices = {"apple":1500,'banana':1000,'orange':1200}
-fruit_prices['banana'] = 1100
-fruit_prices.pop('apple')
-print(fruit_prices)
+coordinates = (3,4)
+distance = ((coordinates[0]-0)**2 + (coordinates[1]-0)**2)**.5
+print(distance)
+
+
+
+
+
+
+
+
+
